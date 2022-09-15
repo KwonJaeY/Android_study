@@ -16,7 +16,7 @@
         <RelativeLayout
             android:id="@+id/box_rl"
             android:layout_width="match_parent"
-            android:layout_height="300dp">
+            android:layout_height="270dp">
 
             <!--<TextView
                 android:id="@+id/text"
